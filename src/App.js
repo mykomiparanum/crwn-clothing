@@ -63,7 +63,7 @@ class App extends React.Component {
       </div>
     );
   }
-}
+};
 
 const mapStateToPropse = createStructuredSelector({
   currentUser: selectCurrentUser

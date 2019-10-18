@@ -8,7 +8,7 @@ const config = {
     databaseURL: "https://crwn-db-531f2.firebaseio.com",
     projectId: "crwn-db-531f2",
     storageBucket: "",
-    messagingSenderId: "491022837523",
+    messagingSenderId: "491022837523", 
     appId: "1:491022837523:web:857b941299d2564f"
   };
 
