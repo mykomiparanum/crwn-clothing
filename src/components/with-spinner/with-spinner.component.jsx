@@ -9,9 +9,9 @@ const WithSpinner = WrappedComponent => {
             <SpinnerContainer />
         </SpinnerOverlay>
     ) : (
-        <WrappedComponent {...otherProps}/>
-    );
-};
+        <WrappedComponent {...otherProps} />
+        );
+    };
  return Spinner;
 };
 
